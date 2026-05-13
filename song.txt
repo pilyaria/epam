@@ -16,3 +16,8 @@ some content
 and here
 
 new lines
+hej hi
+hello
+
+some content
+and here
